@@ -60,6 +60,7 @@ A comparison grid shows how the image looks for each value of k, making it easy 
 # Results
 
 Running the notebook generates:
+
 	•	The original image
 	•	Five compressed versions using different values of k
 	•	A table showing:
